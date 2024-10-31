@@ -15,7 +15,7 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 /**
  *
- * @author User
+ * @author ASUS
  */
 public class PenghitungUmurHelper {
     public String hitungUmurDetail(LocalDate lahir, LocalDate sekarang) {
